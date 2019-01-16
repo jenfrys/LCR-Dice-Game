@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1529463927 source:c:\users\jennifer\desktop\lcr\lcr\main.cpp
+	<iostream>
+	"Game.h"
+
+1529441171 source:c:\users\jennifer\desktop\lcr\lcr\src\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1529441308 c:\users\jennifer\desktop\lcr\lcr\include\person.h
+	<string>
+
+1529464019 source:c:\users\jennifer\desktop\lcr\lcr\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1529440729 c:\users\jennifer\desktop\lcr\lcr\include\player.h
+	<Person.h>
+
+1529441171 source:c:\users\jennifer\desktop\lcr\lcr\src\dice.cpp
+	<cstdlib>
+	"Dice.h"
+
+1529457706 c:\users\jennifer\desktop\lcr\lcr\include\dice.h
+
+1529464840 source:c:\users\jennifer\desktop\lcr\lcr\src\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1529463947 c:\users\jennifer\desktop\lcr\lcr\include\game.h
+	<string>
+	"Dice.h"
+	"Player.h"
+
+1529463928 source:g:\spring 2018\cis-230-01 c++ programming\a04\lcr\main.cpp
+	<iostream>
+	"Game.h"
+
+1529463948 g:\spring 2018\cis-230-01 c++ programming\a04\lcr\include\game.h
+	<string>
+	"Dice.h"
+	"Player.h"
+
+1529457708 g:\spring 2018\cis-230-01 c++ programming\a04\lcr\include\dice.h
+
+1529440730 g:\spring 2018\cis-230-01 c++ programming\a04\lcr\include\player.h
+	<Person.h>
+
+1529441310 g:\spring 2018\cis-230-01 c++ programming\a04\lcr\include\person.h
+	<string>
+
+1529441172 source:g:\spring 2018\cis-230-01 c++ programming\a04\lcr\src\dice.cpp
+	<cstdlib>
+	"Dice.h"
+
+1529464842 source:g:\spring 2018\cis-230-01 c++ programming\a04\lcr\src\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1529441172 source:g:\spring 2018\cis-230-01 c++ programming\a04\lcr\src\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1529464020 source:g:\spring 2018\cis-230-01 c++ programming\a04\lcr\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1529437572 source:c:\users\jennifer\desktop\c++\lcr\src\dice.cpp
+	<cstdlib>
+	"Dice.h"
+
+1529454108 c:\users\jennifer\desktop\c++\lcr\include\dice.h
+
+1529437572 source:c:\users\jennifer\desktop\c++\lcr\src\person.cpp
+	<iostream>
+	<string>
+	"Person.h"
+
+1529437710 c:\users\jennifer\desktop\c++\lcr\include\person.h
+	<string>
+
+1543461521 source:c:\users\jennifer\desktop\c++\lcr\main.cpp
+	<iostream>
+	"Game.h"
+
+1529460348 c:\users\jennifer\desktop\c++\lcr\include\game.h
+	<string>
+	"Dice.h"
+	"Player.h"
+
+1529437130 c:\users\jennifer\desktop\c++\lcr\include\player.h
+	<Person.h>
+
+1543461196 source:c:\users\jennifer\desktop\c++\lcr\src\player.cpp
+	<iostream>
+	"Player.h"
+
